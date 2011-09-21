@@ -1,0 +1,46 @@
+== asxmala4r
+
+* http://github.com/toamitkumar/asxmala4r
+
+== DESCRIPTION
+
+Ruby gem to communicate with XMLA interface of SQL Server Analysis Services
+
+== PRE-REQUISITE
+
+Follow the steps in the link below:
+* 
+
+== REQUIREMENTS
+
+None
+
+==Ruby Version compatibility
+
+Tested against -> REE, Ruby MRI (1.8.x, 1.9.2)
+
+== INSTALL
+
+Install as a gem:
+
+gem install asxmal4r
+
+or include in your Gemfile:
+
+gem "asxmla4r"
+
+== LICENSE:
+
+(The MIT License)
+
+Copyright (c) 2010-2011 Amit Kumar <toamitkumar@gmail.com>
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
